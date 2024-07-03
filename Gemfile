@@ -73,3 +73,5 @@ gem "stimulus_reflex", "~> 3.5"
 
 # StimulusReflex recommends using Redis for session storage
 gem "redis-session-store", "0.11.5"
+
+gem "devise", "~> 4.9"
