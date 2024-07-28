@@ -1,0 +1,11 @@
+.fixed-bottom-custom {
+  position: fixed;
+  bottom: -8rem; /* Equivalent to -bottom-32 */
+  left: 0;
+  right: 0;
+  z-index: 50;
+  pointer-events: none;
+}
+.custom-border {
+  border-left-width: 4px;
+}

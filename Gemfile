@@ -77,3 +77,5 @@ gem "redis-session-store", "0.11.5"
 gem "devise", "~> 4.9"
 
 gem "bootstrap_form", "~> 5.4"
+
+gem "inline_svg", "~> 1.9"
